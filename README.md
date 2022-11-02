@@ -8,9 +8,9 @@ A back end has been built for an e-commerce site by modifying starter code. This
 
 ## Links to deployed application
 
-[Link to deployed working application]
+[Link to deployed working application]:
 
-[Link to Github]
+[Link to Github]:
 
 ## User Story
 
