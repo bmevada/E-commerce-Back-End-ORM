@@ -4,7 +4,7 @@
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes.
 
-A back end has been built for an e-commerce site by modifying starter code. This has been configured with a working Express.js API to using Sequelize to interact with a MySQL database.
+A back end has been built for an e-commerce site by the availble modifying starter code. This has been configured with a working Express.js API to using Sequelize to interact with a MySQL database.
 
 ## Links to deployed application
 
