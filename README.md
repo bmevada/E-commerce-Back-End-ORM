@@ -10,7 +10,7 @@ A back end has been built for an e-commerce site by the availble modifying start
 
 [Link to deployed working application]:
 
-[Link to Github]:
+[Link to Github]: 
 
 ## User Story
 
