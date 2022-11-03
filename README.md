@@ -8,9 +8,9 @@ A back end has been built for an e-commerce site by the availble modifying start
 
 ## Links to deployed application
 
-[Link to deployed working application]: https://drive.google.com/file/d/1umRX2CGCv4wyRh4XGujtKjbg7cFXdfaZ/view
+[Link to deployed working application] https://drive.google.com/file/d/1umRX2CGCv4wyRh4XGujtKjbg7cFXdfaZ/view
 
-[Link to Github]: https://github.com/bmevada/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End.git
+[Link to Github] https://github.com/bmevada/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End.git
 
 ## User Story
 
