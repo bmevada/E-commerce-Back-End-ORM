@@ -42,4 +42,9 @@ The following video shows an example of the application being used from the comm
 
 https://drive.google.com/file/d/1umRX2CGCv4wyRh4XGujtKjbg7cFXdfaZ/view
 
+## Technologies used
 
+- dotenv
+- express
+- mysql2
+- sequelize
