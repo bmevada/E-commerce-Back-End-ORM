@@ -8,7 +8,7 @@ A back end has been built for an e-commerce site by the availble modifying start
 
 ## Links to deployed application
 
-[Link to deployed working application]:
+[Link to deployed working application]: https://drive.google.com/file/d/1umRX2CGCv4wyRh4XGujtKjbg7cFXdfaZ/view
 
 [Link to Github]: https://github.com/bmevada/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End.git
 
@@ -40,22 +40,6 @@ THEN the manager is able to successfully create, update, and delete data in the 
 
 The following video shows an example of the application being used from the command line:
 
+https://drive.google.com/file/d/1umRX2CGCv4wyRh4XGujtKjbg7cFXdfaZ/view
 
-## Deployed Application
-  - GET tags
 
-  - GET Categories
-
-  - GET All Products
-
-  - GET tag by id
-
-  - GET Category by ID
-
-  - GET One Product
-
-  - DELETE Category by ID
-
-  - CREATE Category
-
-  - UPDATE Category
